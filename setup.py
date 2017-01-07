@@ -4,7 +4,7 @@ import numpy
 
 setup(
 	maintainer='Corey Lynch',
-    name='pyfm',
+    name='shit',
     packages=find_packages(),
     url='https://github.com/coreylynch/pyFM',
     cmdclass = {'build_ext': build_ext},
